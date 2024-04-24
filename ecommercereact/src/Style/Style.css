@@ -1,0 +1,13 @@
+#Navbar{
+    background-color: dodgerblue;
+    color: white;
+}
+
+#Navbar a{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+#Navbar #AppICON{
+    font-size: xx-large;
+}
